@@ -57,5 +57,9 @@ This project helped me understand how ML behaves in **real-world applications**,
    ```bash
    git clone https://github.com/tanishaasaklani/CafePulse.git
    cd CafePulse
-2. Install dependencies: pip install -r requirements.txt
-3. Run the app: streamlit run app.py
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+3. Run the app:
+   ```bash
+   streamlit run app.py
