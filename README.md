@@ -63,3 +63,7 @@ This project helped me understand how ML behaves in **real-world applications**,
 3. Run the app:
    ```bash
    streamlit run app.py
+
+## 📬 Contact
+Created by **Tanishaa Saklani** - MCA AI & DS Student.
+Open to feedback!
