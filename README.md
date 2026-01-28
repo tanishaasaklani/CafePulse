@@ -65,5 +65,5 @@ This project helped me understand how ML behaves in **real-world applications**,
    streamlit run app.py
 
 ## 📬 Contact
-Created by **Tanishaa Saklani** - MCA AI & DS Student.
+Created by **Tanisha Saklani** - MCA AI & DS Student.
 Open to feedback!
